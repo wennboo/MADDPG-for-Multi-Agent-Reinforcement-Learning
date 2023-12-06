@@ -2,7 +2,7 @@
 
 
 This project is built based on  [Phil Tabor Multi-Agent-Reinforcement-Learning](https://github.com/philtabor/Multi-Agent-Reinforcement-Learning) with some changes.
-The main python file is pettingzoo_maddpg_main.py
+The main python file is ``pettingzoo_maddpg_main.py``
 The environment depends on 
 pettingzoo[mpe], pytorch and python 3.10. 
 #### Anaconda Environment Settings(基于anaconda的环境配置)
@@ -16,4 +16,4 @@ Open Anaconda Prompt
 
 ```
 #### Others
-See maddpg-summary.md for details.
+See ``maddpg-summary.md`` for details.
