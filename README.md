@@ -6,7 +6,7 @@ The main python file is pettingzoo_maddpg_main.py
 The environment depends on 
 pettingzoo[mpe], pytorch and python 3.10. 
 #### Anaconda Environment Settings(基于anaconda的环境配置)
-首先打开Anaconda Prompt
+Open Anaconda Prompt
 ```
 1. conda create --name pettingzoo-test python==3.10
 2. activate pettingzoo-test
